@@ -14,11 +14,12 @@ was fun.
 * LAB 1
 
   Lab one will always have a place in my heart haha! It was my first time coding
-in such a long time.  I was nervous to be in the class but the girl i was partnered 
-with was super nice and we were able to help each other through the process. 
+in such a long time. I was nervous to be in the class but the girl i was partnered 
+with was super nice and we were able to help each other through the process. We had trouble making our header, but after this lab I
+learned how to make headers properly. 
 
 * LAB 2
 
-  Lab 2 has to also be a memorable one.  I learned a lot from my partner during this lab. 
+  Lab 2 has to also be a memorable one.  I learned a lot from my partner during this lab, he helped me learn how to use 'std::' commands. 
 I was also able to code from home for the first time for this lab because I got a Linux 
 Computer!
